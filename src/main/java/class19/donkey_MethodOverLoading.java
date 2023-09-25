@@ -25,6 +25,7 @@ class Dog extends donkey_MethodOverLoading{
         super(color, name, age);
         this.weight=weight;
     }
+  
 
     @Override
     public void printInfo() {
