@@ -2,11 +2,12 @@ package class26;
 
 import java.util.TreeMap;
 
-public class T3 {
-    /*
-    Creat am map of Best Buy store. Place items id and item name into it.Example (7664847=Printer, 7879885=TV etc)
-    * Retrieve all keys and values from a Best
-     */
+/*
+Create a map of countries(5) with its capital that will store countries in alphabetical order. Country names will be keys and capitals will be values
+Only print those countries which contain more than 5 letters in their country
+name and the letter 'a' in their capital names
+ */
+public class T3Maps {
     public static void main(String[] args) {
         TreeMap<String,String> countries= new TreeMap<>();
         countries.put("Canada","Ottawa");
@@ -20,5 +21,4 @@ public class T3 {
                 System.out.println(k+" "+v);}
         });
     }
-
 }
