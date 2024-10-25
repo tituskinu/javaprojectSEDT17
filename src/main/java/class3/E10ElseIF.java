@@ -2,7 +2,7 @@ package class3;
 
 public class E10ElseIF {
     public static void main(String[] args) {
-        String fruit="Mango";
+        String fruit="Kiwi";
         if (fruit.equals("Mango")) {
             System.out.println("Price is $15");
         } else if (fruit.equals("Orange")) {

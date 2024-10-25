@@ -7,10 +7,10 @@ public class E6LinkedList {
 
         LinkedList<Dog> dogs=new LinkedList<>();
         dogs.add(new Dog("Jacky","Persion"));
-        dogs.add(new Dog("Jim","German"));
+        dogs.add(new Dog("Jim park","German"));
         dogs.add(new Dog("Jim","German"));
         //getting the object stored on index 2 and storing it inside the d variable
-        Dog d=dogs.get(2);
+        Dog d=dogs.get(1);
         d.printInfo();
     }
 }

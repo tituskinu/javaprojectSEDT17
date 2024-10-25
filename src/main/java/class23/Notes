@@ -2,7 +2,7 @@
 Encapsulation:
     Create classes to write code and store data. use private access modifiers
     to secure the data by limiting the access. Create getter setter method
-    for every filed if you want others to change or see those fileds.
+    for every filed if you want others to change or see those fields.
 Why should we learn about Encapsulation?
     it improve the control over the data that we store in the filed of the class
     which leads us to more secure code.

@@ -1,7 +1,0 @@
-Sets:
-    Set is an interface in collection framework.There are three main classes which implement this
-    interface they are called 1)Hashset. 2)LinkedHashSet 3)TreeSet. One thing is common in all of the classes they
-    don't to store duplicate data.
-HashSet:
-    UpSide: Its Fast(Batch17)
-    Downside: it donsnt mainatain

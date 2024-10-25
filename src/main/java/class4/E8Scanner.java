@@ -22,7 +22,7 @@ public class E8Scanner {
 
 
         }else {
-            System.out.println("Nmae does not exist");
+            System.out.println("Name does not exist");
 
         }
 
