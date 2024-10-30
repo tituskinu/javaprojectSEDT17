@@ -24,3 +24,5 @@ public class E3ArrayList {
         }
     }
 }
+//NOTE: You will find an error if you run because you cannot convert Integers to String.
+// that was the main idea for the Teacher
